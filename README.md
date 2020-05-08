@@ -4,7 +4,7 @@ A marketing research approach based on data analysis to get insights about the b
 
 ## Introduction
 
-Through this project, we will implement the first three stages of the CRISP-DM approch on the FreeCodeCamp survey conducted on more than 20,000 developers
+Through this project, we will implement the first three stages of the CRISP-DM approach on the FreeCodeCamp survey conducted on more than 20,000 developers
 
 Assuming that we are an E-learning platform and our main problem is to find the best market to advertise our courses in
 
@@ -36,3 +36,7 @@ Seaborn
 ## Data
  
 All data details can be found through this <a href = 'https://github.com/freeCodeCamp/2017-new-coder-survey/' >link</a>
+
+## Medium 
+
+Results are delivered through this medium <a href = 'https://medium.com/@MustafaAwny/data-science-marketing-volunteering-and-crisp-dm-approach-is-there-anything-common-e9460eb3014d' >article</a>
