@@ -13,9 +13,9 @@ The main questions we want to answer are:
 
 ## Output
 
-<img src = 'images/out1.PNG' width = 100 > 
+<img src = 'images/out1.PNG' width = '200' > 
 
-<img src = 'images/out2.PNG' width = 100 >
+<img src = 'images/out2.PNG' width = '200' >
 
 ## Packages used
 
